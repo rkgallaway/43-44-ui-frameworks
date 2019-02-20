@@ -2,8 +2,8 @@
 =========================================================================
 
 ## Group Assignments
-* [Angular 1.3](https://angular.io/) - Jared, Siobhan, Hannah, Michael
-* [Angular (latest)](https://angularjs.org/) - Jon, Heather, Lena, Fletcher
+* [Angular 1.3](https://angularjs.org/) - Jared, Siobhan, Hannah, Michael
+* [Angular (latest)](https://angular.io/) - Jon, Heather, Lena, Fletcher
 * [Adonis](https://adonisjs.com/)  Tanner, Brent, Caity, George
 * [VueJS](https://vuejs.org/) - Jacob, Beca, Ryan
 
