@@ -1,50 +1,49 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) JS Framework Comparative Analysis
 =======================================================================
 
-## Framework Name (change me)
+## Framework Name: VueJS
 
-### Research Conducted By: Student Names
+### Research Conducted By: Becca Lee, Jacob Anderson, and Ryan Gallaway
 
 ### Overall Score and Comments
-#### Score (Out of 10): 7
+#### Score (Out of 10): 8
 #### General Comments
-Describe the stack (front-end only? full stack?), database, efficiency, etc. Describe the general usability and learnability
+Not as readable as it could be, some of the aspects are not intuitive. Otherwise, fairly doable and easy to work with.
 
 #### Pros
-* Item 1
-* Item 2
+* Fast Learning Curve (if up to speed on React)
+* Importable as HTML library
 
 #### Cons
-* Item 1
-* Item 2
+* Readability
+* Not intuitive
 
 ### Ratings and Reviews
 #### Documentation
-Thoughts go here
+Great documentation. Very thorough examples on how it's like an unlike other frameworks, and comprehensive examples of how to handle different things that may arise. It's clear that the docs are meant to be friendly to new users and want to provide context to help prospective users understand the framework.
 
 #### Systems Requirements
-Above and beyond 'node' and 'linux', what dependencies or core requirements exist for this framework?  Can it play at AWS/Heroku?  Does it require a certain database?
+There are two ways to use Vue in your project:
+1) Include it in your html page
+2) Install the npm package to get access to features such as interactive project scaffolding, access to Vue's library of plugins, a full GUI for creation and management of projects
 
 #### Ramp-Up Projections
-How long would/should it take a team of mid-junior developers to become productive?
+Ramping up with Vue would have a bit of a learning curve in terms of syntax and structure of the code, but if the dev team is familiar with React it should be a relatively painless transition.
+
 
 #### Community Support and Adoption levels
-How popular is this framework? What big companies are running on it? How is it "seen" in the general JS community?  Is there an active community of developers supporting and growing it?
+Vue.js has and seen its share of popularity.  As of March 2018, the 13 top companies using VueJS include Facebook NewsFeed, Netflix, Adobe (Portfolio), Xiaomi, Alibaba, WizzAir, EuroNews, Grammarly, Laracasts, GitLab, Codeship, Livestorm, Behance. It remains less popular than React, largely due to the lack of company ownership. 
 
 
 ### Links and Resources
-* [framework](http://xyz.com)
-* [docs](http://xyz.com)
-* [examples/tutorials](http://xyz.com)
+* [framework](https://vuejs.org/v2/guide/)
+* [docs](https://vuejs.org/v2/guide/comparison.html)
+* [examples/tutorials](https://www.netguru.com/blog/13-top-companies-that-have-trusted-vue.js-examples-of-applications)
 
 ### Code Demos
-* [live/running application](http://xyz.com)
-* [code repository](http://xyz.com)
+* [live/running application](https://codesandbox.io/s/mmnl46wjxj)
+* [code repository](https://github.com/rkgallaway/43-44-ui-frameworks)contains the link to our codeSandbox
+
 
 ### Operating Instructions
-If someone were to download your repo (above), what steps do they need to take to run the application
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
+* visit codeSandbox to view demo and code
